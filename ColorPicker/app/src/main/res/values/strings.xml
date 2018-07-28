@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Color Picker</string>
+    <string name="save">Save</string>
+    <string name="recall">Recall</string>
+    <string name="action_save">Save</string>
+    <string name="action_recall">Recall</string>
+</resources>
